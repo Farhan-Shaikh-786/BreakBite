@@ -1,6 +1,6 @@
 # 🍔 BreakBite — Canteen Ordering App
 
-BreakBite is a full-stack canteen food ordering application that lets students browse the canteen menu and place orders digitally — eliminating queues and manual order-taking. It features a Flutter-based mobile and web frontend (for both student/faculty and admin) with Express.js as a backend.
+BreakBite is a full-stack canteen food ordering application that lets students browse the canteen menu and place orders digitally, eliminating queues and manual order-taking. It features a Flutter-based mobile and web frontend (for both student/faculty and admin) with Express.js as a backend.
 
 > **Note:** The backend is hosted on a free-tier instance. Please allow ~30 seconds for "cold start" activation upon the first request.
 > 
